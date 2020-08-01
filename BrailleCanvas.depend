@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1596242769 source:d:\developer\braillecanvas\braillecanvas\braillecanvas.c
+	"braillecanvas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1596242740 d:\developer\braillecanvas\braillecanvas\braillecanvas.h
+	<stdint.h>
+	"terminal.h"
+
+1596243267 d:\developer\braillecanvas\braillecanvas\terminal.h
+	<stdint.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<windows.h>
+
+1596242828 source:d:\developer\braillecanvas\braillecanvas\main_test.c
+	"braillecanvas.h"
+
+1596243210 source:d:\developer\braillecanvas\braillecanvas\terminal.c
+	"terminal.h"
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
